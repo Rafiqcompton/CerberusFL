@@ -1,0 +1,21 @@
+CerberusFL: Secure and Decentralized Federated Learning with AES Encryption, Weighted Averaging Aggregation, and Malicious Participant Detection
+
+CerberusFL is a new blockchain algorithm that enables secure and decentralized federated learning. Federated learning is a machine learning technique that allows multiple participants to train a shared model without sharing their data. CerberusFL uses blockchain to ensure the security and privacy of the federated learning process.
+
+Features:
+
+AES encryption for secure global model updates
+Weighted averaging aggregation for more accurate and robust global models
+Malicious participant detection to prevent malicious participants from degrading the quality of the global model or compromising the privacy of the participants' data
+Benefits:
+
+Increased security
+Improved accuracy
+Increased robustness
+Enhanced privacy
+Potential Applications:
+
+Healthcare
+Finance
+Cybersecurity
+Cloud computing
