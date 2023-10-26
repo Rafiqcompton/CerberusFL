@@ -1,0 +1,8 @@
+To use SDFL, you will need to:
+
+1. Create a SDFLParticipant instance for each participant in the federated learning process.
+2. Create a SDFLCoordinator instance and pass the list of participants to it.
+3. Start the federated learning process by calling the `start_federated_learning()` method on the SDFLCoordinator instance.
+4. Each participant will train their local model on their local data and then encrypt and submit their local model updates to the blockchain.
+5. The SDFLCoordinator will aggregate the global model updates from all participants and update the global model.
+6. The SDFLCoordinator will then distribute the updated global model to all participants.
