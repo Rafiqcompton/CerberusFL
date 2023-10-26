@@ -1,0 +1,5 @@
+To setup cerberusFL, you will need to:
+
+1. Deploy a blockchain network.
+2. Create a smart contract that implements the cerberusFL protocol.
+3. Distribute the private and public keys to all participants.
